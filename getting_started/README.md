@@ -1,2 +1,2 @@
-# Getting Started
+# 1 시작하기
 
