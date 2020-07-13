@@ -16,7 +16,7 @@
     * [1.4.2 Upstart \(Ubuntu 14.04, RedHat 6\)](getting_started/1.4/1.4.2.md)
 * [2 서버 관리](2/README.md)
   * [2.1 기본 설정](2/2.1-default-configuration.md)
-  * [2.2 Server Hierarchy](2/2.2-server-hierarchy/README.md)
+  * [2.2 서버 구성 요소](2/2.2-server-hierarchy/README.md)
     * [2.2.1 Server](2/2.2-server-hierarchy/2.2.1-server.md)
     * [2.2.2 Location](2/2.2-server-hierarchy/2.2.2-location.md)
     * [2.2.3 Application](2/2.2-server-hierarchy/2.2.3-application.md)
