@@ -1,2 +1,2 @@
-# 2.4 PAM Sessions
+# 2.4 PAM Sessions \(Pro\)
 
